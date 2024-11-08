@@ -24,7 +24,13 @@
     },
     "portfolio": {
       "title": "私の作品",
-      "description": "プロジェクトの説明はここに記入します。"
+      "description": "プロジェクトの説明はここに記入します。",
+      "filters": {
+        "all": "すべて",
+        "web": "ウェブ開発",
+        "game": "ゲーム開発",
+        "gis": "GIS開発"
+      }
     },
     "contact": {
       "title": "ご連絡をお待ち申し上げます",

@@ -24,7 +24,13 @@
     },
     "portfolio": {
       "title": "My Work",
-      "description": "Project description goes here."
+      "description": "Project description goes here.",
+      "filters": {
+          "all": "All",
+          "web": "Web Development",
+          "game": "Game Development",
+          "gis": "GIS Development"
+      }
     },
     "contact": {
       "title": "Let's Get In Touch",

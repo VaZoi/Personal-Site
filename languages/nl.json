@@ -24,7 +24,13 @@
     },
     "portfolio": {
       "title": "Mijn werk",
-      "description": "De projectbeschrijving komt hier."
+      "description": "De projectbeschrijving komt hier.",
+      "filters": {
+        "all": "Alles",
+        "web": "Webontwikkeling",
+        "game": "Game Development",
+        "gis": "GIS-ontwikkeling"
+      }
     },
     "contact": {
       "title": "Laten we in contact komen",

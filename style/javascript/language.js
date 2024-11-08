@@ -40,6 +40,19 @@ function loadLanguage(lang) {
       // Update the text content for Portfolio Section
       document.querySelector(".portfolio-title").textContent = data.portfolio.title;
 
+      // Portfolio filters (desktop view)
+      document.querySelector(".filter-button[data-filter='all']").textContent = data.portfolio.filters.all;
+      document.querySelector(".filter-button[data-filter='web']").textContent = data.portfolio.filters.web;
+      document.querySelector(".filter-button[data-filter='game']").textContent = data.portfolio.filters.game;
+      document.querySelector(".filter-button[data-filter='gis']").textContent = data.portfolio.filters.gis;
+
+      // Portfolio filter dropdown (mobile view)
+      const filterDropdown = document.querySelector(".filter-dropdown");
+      filterDropdown.querySelector('option[value="all"]').textContent = data.portfolio.filters.all;
+      filterDropdown.querySelector('option[value="web"]').textContent = data.portfolio.filters.web;
+      filterDropdown.querySelector('option[value="game"]').textContent = data.portfolio.filters.game;
+      filterDropdown.querySelector('option[value="gis"]').textContent = data.portfolio.filters.gis;
+
       // Update the text content for Contact Section
       document.querySelector(".contact-title").textContent = data.contact.title;
       document.querySelector("input[placeholder='Your Name']").setAttribute("placeholder", data.contact.form.name);
@@ -88,9 +101,29 @@ function loadProjects(lang, filter = 'all') {
                   overlay.appendChild(description);
 
                   const link = document.createElement('a');
-                  link.href = project.link;
-                  link.textContent = project.platform === 'github' ? 'View on GitHub' : 'View on Itch.io';
-                  link.classList.add(project.platform === 'github' ? 'github-link' : 'itch-link');
+
+                  // Check if there is a link before creating the anchor element
+                  if (project.link) {
+                      link.href = project.link;
+
+                      // Update the text content and class based on the platform
+                      if (project.platform === 'GitHub') {
+                          link.textContent = 'View on GitHub';
+                          link.classList.add('github-link');
+                      } else if (project.platform === 'Itch.io') {
+                          link.textContent = 'View on Itch.io';
+                          link.classList.add('itch-link');
+                      }
+
+                      overlay.appendChild(link);  // Append the link only if it exists
+                  } else {
+                      // Display an alternative message if no link is available
+                      const noLinkText = document.createElement('p');
+                      noLinkText.textContent = '';  // Placeholder message
+                      noLinkText.classList.add('no-link'); // Style this class in CSS as needed
+                      overlay.appendChild(noLinkText);  // Append the placeholder message
+                  }
+
 
                   overlay.appendChild(link);
                   portfolioItem.appendChild(img);
@@ -131,4 +164,5 @@ document.querySelector('.filter-dropdown').addEventListener('change', (event) =>
 
 // Initial load of language and projects
 const savedLanguage = localStorage.getItem("selectedLanguage") || "en";
+document.getElementById("language-select").value = savedLanguage;
 loadLanguage(savedLanguage);
