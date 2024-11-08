@@ -4,41 +4,47 @@
       "title": "Ιστοσελίδα Οδοντιατρείου",
       "description": "Ιστοσελίδα οδοντιατρείου, σχολικό ομαδικό έργο. 2024",
       "platform": "",
-      "link": ""
+      "link": "",
+      "category": "web"
   },
   {
       "image": "images/project2.png",
       "title": "Ιστοσελίδα Software Shop",
       "description": "Ιστοσελίδα για Software Shop, σχολικό ομαδικό έργο. 2023",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Beroepsproject2.git"
+      "link": "https://github.com/VaZoi/Beroepsproject2.git",
+      "category": "web"
   },
   {
       "image": "images/project3.png",
       "title": "Ιστοσελίδα Αγαπημένων Μοτοσυκλετών",
       "description": "Προσωπική ιστοσελίδα με τις αγαπημένες μου μοτοσυκλέτες. 2024",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Favorite_Motors_site.git"
+      "link": "https://github.com/VaZoi/Favorite_Motors_site.git",
+      "category": "web"
   },
   {
       "image": "images/project4.png",
       "title": "Ιστοσελίδα Ενοικίασης Αυτοκινήτων",
       "description": "Προσωπική ιστοσελίδα για σχολικό έργο σχετικά με ενοικίαση αυτοκινήτων. 2024",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git",
+      "category": "web"
   },
   {
       "image": "images/project5.png",
       "title": "Ιστοσελίδα Ωρολογίου Προγράμματος",
       "description": "Ιστοσελίδα για ωρολόγιο πρόγραμμα για μαθητές και δασκάλους, ομαδικό σχολικό έργο. 2024",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git",
+      "category": "web"
   },
   {
       "image": "images/project6.png",
       "title": "Παιχνίδι Santa's Desert Dash",
       "description": "3D παιχνίδι δρομέα, Santa's Desert Dash. 2023",
       "platform": "Itch.io",
-      "link": "https://vazoi.itch.io/santas-desert-dash"
+      "link": "https://vazoi.itch.io/santas-desert-dash",
+      "category": "game"
   }
 ]

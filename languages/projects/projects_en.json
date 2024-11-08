@@ -4,41 +4,47 @@
       "title": "Dental Clinic Website",
       "description": "A website designed for a school group project to promote dental services. 2024.",
       "platform": "",
-      "link": ""
+      "link": "",
+      "category": "web"
   },
   {
       "image": "images/project2.png",
       "title": "Software Shop Platform",
       "description": "E-commerce platform for software products, created for a school project. 2023.",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Beroepsproject2.git"
+      "link": "https://github.com/VaZoi/Beroepsproject2.git",
+      "category": "web"
   },
   {
       "image": "images/project3.png",
       "title": "Favorite Motors Gallery",
       "description": "Personal website showcasing favorite motorcycles. 2024.",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Favorite_Motors_site.git"
+      "link": "https://github.com/VaZoi/Favorite_Motors_site.git",
+      "category": "web"
   },
   {
       "image": "images/project4.png",
       "title": "Car Rental Service Site",
       "description": "Website for car rentals, developed as a personal school project. 2024.",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git",
+      "category": "web"
   },
   {
       "image": "images/project5.png",
       "title": "School Timetable Platform",
       "description": "Timetable scheduling site for students and teachers, created for a school group project. 2024.",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git",
+      "category": "web"
   },
   {
       "image": "images/project6.png",
       "title": "Santa's Desert Dash Game",
       "description": "A 3D endless runner game featuring Santa, developed in 2023.",
       "platform": "Itch.io",
-      "link": "https://vazoi.itch.io/santas-desert-dash"
+      "link": "https://vazoi.itch.io/santas-desert-dash",
+      "category": "game"
   }
 ]

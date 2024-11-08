@@ -4,41 +4,47 @@
       "title": "歯医者のサイト",
       "description": "歯医者のためのウェブサイト、学校のグループプロジェクト。2024年",
       "platform": "",
-      "link": ""
+      "link": "",
+      "category": "web"
   },
   {
       "image": "images/project2.png",
       "title": "ソフトウェアショップのサイト",
       "description": "ソフトウェアショップのウェブサイト、学校のグループプロジェクト。2023年",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Beroepsproject2.git"
+      "link": "https://github.com/VaZoi/Beroepsproject2.git",
+      "category": "web"
   },
   {
       "image": "images/project3.png",
       "title": "お気に入りのバイクサイト",
       "description": "お気に入りのバイクを紹介する個人サイト。2024年",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Favorite_Motors_site.git"
+      "link": "https://github.com/VaZoi/Favorite_Motors_site.git",
+      "category": "web"
   },
   {
       "image": "images/project4.png",
       "title": "レンタカーのサイト",
       "description": "レンタカーに関する個人プロジェクト、学校の課題用。2024年",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git",
+      "category": "web"
   },
   {
       "image": "images/project5.png",
       "title": "時間割サイト",
       "description": "学生と先生のための時間割サイト、学校のグループプロジェクト。2024年",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git",
+      "category": "web"
   },
   {
       "image": "images/project6.png",
       "title": "サンタのデザートダッシュゲーム",
       "description": "サンタの3Dランナーゲーム「デザートダッシュ」。2023年",
       "platform": "Itch.io",
-      "link": "https://vazoi.itch.io/santas-desert-dash"
+      "link": "https://vazoi.itch.io/santas-desert-dash",
+      "category": "game"
   }
 ]

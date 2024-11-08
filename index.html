@@ -51,12 +51,32 @@
   </section>
 
   <!-- Portfolio Section -->
-    <section id="portfolio" class="portfolio">
-        <h2 class="portfolio-title">My Work</h2>
-        <div class="portfolio-grid" id="portfolio-grid">
+  <section id="portfolio" class="portfolio">
+    <h2 class="portfolio-title">My Work</h2>
+    
+    <!-- Portfolio Filters -->
+    <div class="portfolio-filters">
+      <!-- Buttons for desktop view -->
+      <button class="filter-button" data-filter="all">All</button>
+      <button class="filter-button" data-filter="web">Web Development</button>
+      <button class="filter-button" data-filter="game">Game Development</button>
+      <button class="filter-button" data-filter="gis">GIS Development</button>
+
+      <!-- Dropdown for mobile view -->
+      <select class="filter-dropdown" aria-label="Filter projects">
+          <option value="all">All</option>
+          <option value="web">Web Development</option>
+          <option value="game">Game Development</option>
+          <option value="gis">GIS Development</option>
+      </select>
+    </div>
+
+
+    <div class="portfolio-grid" id="portfolio-grid">
         <!-- Portfolio items will be injected here dynamically -->
-        </div>
-    </section>
+    </div>
+  </section>
+
   
 
   <!-- Contact Section -->

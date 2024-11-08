@@ -4,41 +4,47 @@
       "title": "Website voor Tandarts",
       "description": "Website voor een tandarts, groepsproject voor school. 2024",
       "platform": "",
-      "link": ""
+      "link": "",
+      "category": "web"
   },
   {
       "image": "images/project2.png",
       "title": "Software Shop Website",
       "description": "Website voor een Software Shop, groepsproject voor school. 2023",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Beroepsproject2.git"
+      "link": "https://github.com/VaZoi/Beroepsproject2.git",
+      "category": "web"
   },
   {
       "image": "images/project3.png",
       "title": "Website met Favoriete Motoren",
       "description": "Persoonlijke website met mijn favoriete motoren. 2024",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Favorite_Motors_site.git"
+      "link": "https://github.com/VaZoi/Favorite_Motors_site.git",
+      "category": "web"
   },
   {
       "image": "images/project4.png",
       "title": "Autoverhuur Website",
       "description": "Website voor autoverhuur, persoonlijke schoolopdracht. 2024",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git",
+      "category": "web"
   },
   {
       "image": "images/project5.png",
       "title": "Rooster Website",
       "description": "Website voor roosters voor studenten en docenten, groepsproject voor school. 2024",
       "platform": "GitHub",
-      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git",
+      "category": "web"
   },
   {
       "image": "images/project6.png",
       "title": "Santa's Desert Dash Spel",
       "description": "3D hardloopspel, Santa's Desert Dash. 2023",
       "platform": "Itch.io",
-      "link": "https://vazoi.itch.io/santas-desert-dash"
+      "link": "https://vazoi.itch.io/santas-desert-dash",
+      "category": "game"
   }
 ]
