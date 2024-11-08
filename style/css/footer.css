@@ -5,3 +5,12 @@
     text-align: center;
     color: #CCCCCC;
   }
+
+  /* Mobile Footer */
+@media (max-width: 768px) {
+    .footer {
+        padding: 15px 20px;  /* Adjust padding */
+        font-size: 0.9rem;  /* Reduce text size */
+    }
+}
+

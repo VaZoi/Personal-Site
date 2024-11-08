@@ -262,3 +262,71 @@ body {
     color: black;
 }
 
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    /* Hero Section */
+    .hero h1 {
+        font-size: 2em;  /* Smaller heading size for mobile */
+    }
+
+    .hero p {
+        font-size: 1em;  /* Adjust subtitle size */
+        margin: 10px 0;
+    }
+
+    .cta-button {
+        padding: 8px 16px;  /* Smaller padding on buttons */
+        font-size: 1em;  /* Adjust font size */
+    }
+
+    /* Social Icons */
+    .social-icons-hero {
+        flex-direction: row; /* Stack social icons horizontally */
+        gap: 10px;
+    }
+
+    .social-icon {
+        font-size: 1.2rem;  /* Reduce icon size */
+        padding: 8px;
+    }
+
+    /* About Section */
+    .about h2 {
+        font-size: 2em;  /* Smaller font size for the title */
+    }
+
+    .about p {
+        font-size: 1em;  /* Adjust paragraph text size */
+    }
+
+    /* Portfolio Section */
+    .portfolio h2 {
+        font-size: 2em;  /* Adjust portfolio section title */
+    }
+
+    .portfolio-grid {
+        grid-template-columns: 1fr; /* Single column for portfolio items */
+    }
+
+    .portfolio-item {
+        margin-bottom: 20px;  /* Space between items on mobile */
+    }
+
+    /* Contact Section */
+    .contact h2 {
+        font-size: 2em;  /* Adjust the title size */
+    }
+
+    .contact form {
+        width: 100%; /* Make the form full width */
+    }
+
+    .contact input,
+    .contact textarea {
+        font-size: 0.9em;  /* Adjust font size */
+    }
+
+    .contact button {
+        font-size: 1em;  /* Adjust button text size */
+    }
+}

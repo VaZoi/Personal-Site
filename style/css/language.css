@@ -37,4 +37,16 @@
     pointer-events: none;
   }
 
-  
+  /* Mobile Dropdown */
+@media (max-width: 768px) {
+    .language-select {
+        width: 100%;  /* Make the dropdown fill the container */
+        padding: 12px 18px;  /* Adjust padding */
+        font-size: 1rem;  /* Slightly smaller font size */
+    }
+
+    .language-label {
+        font-size: 0.9rem;  /* Adjust label size */
+        margin-bottom: 10px; /* Space for label */
+    }
+}
