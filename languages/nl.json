@@ -1,0 +1,42 @@
+{
+    "title": "Julie Kraanen - Portfolio",
+    "language": {
+        "label": "Taal:"
+    },
+    "navigation": {
+      "language": "Taal:",
+      "about": "Over mij",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Hallo, ik ben Julie Kraanen",
+      "subtitle": "Webontwikkelaar | Game Developer | GIS Developer",
+      "cta": "Bekijk mijn werk"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "about": {
+      "title": "Over mij",
+      "text": "Ik ben een Junior Software Developer en ik geniet van het coderen, waar ik mijn creativiteit kan uiten en plezier kan hebben met het oplossen van problemen. Wat ik het leukst vind aan coderen is de voldoening die ik krijg van het zien van de resultaten van mijn werk en te weten dat ik er tevreden mee ben."
+    },
+    "portfolio": {
+      "title": "Mijn werk",
+      "description": "De projectbeschrijving komt hier."
+    },
+    "contact": {
+      "title": "Laten we in contact komen",
+      "form": {
+        "name": "Jouw naam",
+        "email": "Jouw e-mailadres",
+        "message": "Jouw bericht",
+        "button": "Verstuur bericht"
+      }
+    },
+    "footer": {
+      "copyright": "&copy; Julie Kraanen. Alle rechten voorbehouden."
+    }
+  }
+  

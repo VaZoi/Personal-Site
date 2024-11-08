@@ -1,0 +1,40 @@
+
+  /* Basic reset for dropdown styling */
+  .language-select {
+    appearance: none;
+    -webkit-appearance: none; /* Safari */
+    -moz-appearance: none;    /* Firefox */
+    background-color: #000;   /* Black background */
+    color: #00aaff;           /* Appealing blue text */
+    font-size: 1rem;
+    padding: 10px 15px;
+    border: 1px solid #00aaff; /* Blue border */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Add a hover effect */
+  .language-select:hover {
+    background-color: #00aaff;
+    color: #000;
+  }
+  
+  /* Additional styling for label */
+  .language-label {
+    color: #00aaff;
+    font-weight: bold;
+    margin-right: 8px;
+    font-size: 1rem;
+  }
+  
+  /* Dropdown arrow styling */
+  .language-select::after {
+    content: "▼";
+    position: absolute;
+    right: 10px;
+    color: #00aaff;
+    pointer-events: none;
+  }
+
+  

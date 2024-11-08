@@ -1,0 +1,46 @@
+[
+    {
+      "image": "images/project1.png",
+      "title": "歯科医院のウェブサイト",
+      "description": "学校のグループプロジェクトのための歯科医院のウェブサイト。2024",
+      "platform": "",
+      "link": ""
+    },
+    {
+      "image": "images/project2.png",
+      "title": "ソフトウェアショップのウェブサイト",
+      "description": "学校のグループプロジェクトのためのソフトウェアショップのウェブサイト。2023",
+      "platform": "github",
+      "link": "https://github.com/VaZoi/Beroepsproject2.git"
+    },
+    {
+      "image": "images/project3.png",
+      "title": "お気に入りのモーターウェブサイト",
+      "description": "私のお気に入りのモーターに関する個人的なサイト。2024",
+      "platform": "github",
+      "link": "https://github.com/VaZoi/Favorite_Motors_site.git"
+    },
+    {
+      "image": "images/project4.png",
+      "title": "レンタカーのウェブサイト",
+      "description": "レンタカーに関する学校のプロジェクトのための個人的なウェブサイト。2024",
+      "platform": "github",
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+    },
+    {
+      "image": "images/project5.png",
+      "title": "タイムテーブルのウェブサイト",
+      "description": "学生と教師のためのタイムテーブルのウェブサイト。学校のグループプロジェクト。2024",
+      "platform": "github",
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+    },
+    {
+      "image": "images/project6.png",
+      "title": "サンタのデザートダッシュゲーム",
+      "description": "3Dランナーゲーム、サンタのデザートダッシュ。2023",
+      "platform": "itch",
+      "link": "https://vazoi.itch.io/santas-desert-dash"
+    }
+    
+  ]
+  

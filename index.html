@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Julie Kraanen - Portfolio</title>
+  <link rel="stylesheet" href="style/css/index.css">
+  <link rel="stylesheet" href="style/css/header.css">
+  <link rel="stylesheet" href="style/css/footer.css">
+  <link rel="stylesheet" href="style/css/language.css">
+  <script src="style/javascript/autoYear.js" defer></script>
+  <script src="style/javascript/language.js" defer></script>
+  <script src="style/javascript/projects.js" defer></script>
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <ul class="nav-links">
+        <label for="language-select" class="language-label">Language:</label>
+            <select id="language-select" class="language-select">
+                <option value="en">English</option>
+                <option value="nl">Nederlands (Dutch)</option>
+                <option value="el">Ελληνικά (Greek)</option>
+                <option value="ja">日本語 (Japanese)</option>
+            </select>
+      <li><a href="#about" class="nav-about">About</a></li>
+      <li><a href="#portfolio" class="nav-portfolio">Portfolio</a></li>
+      <li><a href="#contact" class="nav-contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+    <section class="hero">
+        <h1 class="hero-title">Hi, I'm Julie Kraanen</h1>
+        <p class="hero-subtitle">Web Developer | Game Developer | GIS Developer</p>
+        <a href="#portfolio" class="cta-button">See My Work</a>
+    
+        <!-- Social Icons in Hero Section -->
+        <div class="social-icons-hero">
+        <a href="https://www.linkedin.com/in/juliekraanen/" class="social-icon">LinkedIn</a>
+        <a href="https://github.com/VaZoi" class="social-icon">GitHub</a>
+        </div>
+    </section>
+  
+
+  <!-- About Section -->
+  <section id="about" class="about">
+    <h2 class="about-title">About Me</h2>
+    <p class="about-text">I am a Junior Software Developer who enjoys coding, where I can let my creativity flow and have fun with problem-solving. What I like most about coding is the satisfaction of seeing the results of my work and knowing I am happy with them.</p>
+  </section>
+
+  <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio">
+        <h2 class="portfolio-title">My Work</h2>
+        <div class="portfolio-grid" id="portfolio-grid">
+        <!-- Portfolio items will be injected here dynamically -->
+        </div>
+    </section>
+  
+
+  <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <h2 class="contact-title">Let's Get In Touch</h2>
+        <form action="https://formspree.io/f/xzzbrkyz" method="POST">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <textarea name="message" placeholder="Your Message" required></textarea>
+        <button type="submit">Send Message</button>
+        </form>
+    </section>
+    
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; <span id="year"></span> Julie Kraanen. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+{
+    "title": "ジュリー・クラネン - ポートフォリオ",
+    "language": {
+        "label": "言語:"
+    },
+    "navigation": {
+      "language": "言語:",
+      "about": "自己紹介",
+      "portfolio": "ポートフォリオ",
+      "contact": "連絡先"
+    },
+    "hero": {
+      "title": "はじめまして、クラネン・ジュリーと申します。",
+      "subtitle": "Web Developer | ゲーム開発者 | GIS開発者",
+      "cta": "私の作品を見る"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "about": {
+      "title": "自己紹介",
+      "text": "私はジュニアソフトウェア開発者で、創造力を発揮し、問題解決を楽しみながらコードを書くのが好きです。プログラミングで最も好きなことは、自分の成果を見ることです。"
+    },
+    "portfolio": {
+      "title": "私の作品",
+      "description": "プロジェクトの説明はここに記入します。"
+    },
+    "contact": {
+      "title": "ご連絡をお待ち申し上げます",
+      "form": {
+        "name": "あなたの名前",
+        "email": "あなたのメールアドレス",
+        "message": "あなたのメッセージ",
+        "button": "メッセージを送る"
+      }
+    },
+    "footer": {
+      "copyright": "&copy; クラネン・ジュリー. All rights reserved."
+    }
+  }
+  

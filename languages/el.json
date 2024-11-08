@@ -1,0 +1,42 @@
+{
+    "title": "Julie Kraanen - Πορτφόλιο",
+    "language": {
+        "label": "Γλώσσα:"
+    },
+    "navigation": {
+      "language": "Γλώσσα:",
+      "about": "Σχετικά",
+      "portfolio": "Πορτφόλιο",
+      "contact": "Επικοινωνία"
+    },
+    "hero": {
+      "title": "Γειά σας, είμαι η Julie Kraanen",
+      "subtitle": "Web Developer | Game Developer | GIS Developer",
+      "cta": "Δείτε τη δουλειά μου"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "about": {
+      "title": "Σχετικά με εμένα",
+      "text": "Είμαι Junior Software Developer και απολαμβάνω να γράφω κώδικα, ενώ παράλληλα αφήνω τη δημιουργικότητά μου να αναπτυχθεί και απολαμβάνω την επίλυση προβλημάτων. Αυτό που με ικανοποιεί περισσότερο στον προγραμματισμό είναι το να βλέπω τα αποτελέσματα της δουλειάς μου και να ξέρω ότι είμαι ευχαριστημένος με αυτά."
+    },
+    "portfolio": {
+      "title": "Η δουλειά μου",
+      "description": "Η περιγραφή του έργου θα προστεθεί εδώ."
+    },
+    "contact": {
+      "title": "Ας έρθουμε σε επαφή",
+      "form": {
+        "name": "Το όνομά σας",
+        "email": "Το email σας",
+        "message": "Το μήνυμά σας",
+        "button": "Αποστολή μηνύματος"
+      }
+    },
+    "footer": {
+      "copyright": "&copy; Julie Kraanen. Όλα τα δικαιώματα διατηρούνται."
+    }
+  }
+  
