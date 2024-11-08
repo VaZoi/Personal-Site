@@ -278,6 +278,7 @@ body {
     color: black;
 }
 
+
 /* Mobile Responsiveness */
 @media (max-width: 768px) {
     .hero h1 {

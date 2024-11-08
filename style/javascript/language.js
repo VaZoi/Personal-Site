@@ -62,6 +62,10 @@ function loadLanguage(lang) {
 
       // Update the Footer content
       document.querySelector(".footer p").innerHTML = data.footer.copyright;
+
+      // Update the Spotify playlist based on language
+      const spotifyPlayer = document.getElementById("spotify-player");
+      spotifyPlayer.src = data.playlist;  // Set playlist URL from JSON
     })
     .catch(error => console.error("Error loading language file:", error));
 
