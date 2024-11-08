@@ -299,18 +299,35 @@ body {
         font-size: 1em;  /* Adjust paragraph text size */
     }
 
-    /* Portfolio Section */
-    .portfolio h2 {
-        font-size: 2em;  /* Adjust portfolio section title */
-    }
-
     .portfolio-grid {
-        grid-template-columns: 1fr; /* Single column for portfolio items */
+        grid-template-columns: 1fr; /* Stack items in a single column */
     }
 
     .portfolio-item {
-        margin-bottom: 20px;  /* Space between items on mobile */
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start; /* Align items at the top */
     }
+
+    .portfolio-item img {
+        height: 200px; /* Set a fixed height for images in mobile view */
+    }
+
+    .overlay {
+        position: relative;
+        opacity: 1;
+        padding: 10px;
+        display: block;
+    }
+
+    .overlay h3 {
+        font-size: 1.2em;
+    }
+
+    .overlay p {
+        font-size: 0.9em;
+    }
+
 
     /* Contact Section */
     .contact h2 {
