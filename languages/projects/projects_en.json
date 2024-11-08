@@ -1,45 +1,44 @@
 [
-    {
+  {
       "image": "images/project1.png",
-      "title": "Dentist website",
-      "description": "Dentist website for a school group project. 2024",
+      "title": "Dental Clinic Website",
+      "description": "A website designed for a school group project to promote dental services. 2024.",
       "platform": "",
       "link": ""
-    },
-    {
+  },
+  {
       "image": "images/project2.png",
-      "title": "Softwareshop website",
-      "description": "A SoftwareShop website for a school group project. 2023",
-      "platform": "github",
+      "title": "Software Shop Platform",
+      "description": "E-commerce platform for software products, created for a school project. 2023.",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Beroepsproject2.git"
-    },
-    {
+  },
+  {
       "image": "images/project3.png",
-      "title": "Favorite motors website",
-      "description": "Personal site with my favorite motors. 2024",
-      "platform": "github",
+      "title": "Favorite Motors Gallery",
+      "description": "Personal website showcasing favorite motorcycles. 2024.",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Favorite_Motors_site.git"
-    },
-    {
-        "image": "images/project4.png",
-        "title": "Rent a Car website",
-        "description": "Personal site for a school project about rent a Car. 2024",
-        "platform": "github",
-        "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
-    },
-    {
-        "image": "images/project5.png",
-        "title": "Timetable website",
-        "description": "Timeatable website for students and teachers, a group project for school. 2024",
-        "platform": "github",
-        "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
-    },
-    {
+  },
+  {
+      "image": "images/project4.png",
+      "title": "Car Rental Service Site",
+      "description": "Website for car rentals, developed as a personal school project. 2024.",
+      "platform": "GitHub",
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+  },
+  {
+      "image": "images/project5.png",
+      "title": "School Timetable Platform",
+      "description": "Timetable scheduling site for students and teachers, created for a school group project. 2024.",
+      "platform": "GitHub",
+      "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
+  },
+  {
       "image": "images/project6.png",
       "title": "Santa's Desert Dash Game",
-      "description": "3D runner game, Santa's Desert Dash. 2023",
-      "platform": "itch",
+      "description": "A 3D endless runner game featuring Santa, developed in 2023.",
+      "platform": "Itch.io",
       "link": "https://vazoi.itch.io/santas-desert-dash"
-    }
-  ]
-  
+  }
+]

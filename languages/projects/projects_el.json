@@ -1,46 +1,44 @@
 [
-    {
+  {
       "image": "images/project1.png",
-      "title": "Ιστοσελίδα για Οδοντίατρο",
-      "description": "Ιστοσελίδα για οδοντίατρο για ένα σχολικό ομαδικό έργο. 2024",
+      "title": "Ιστοσελίδα Οδοντιατρείου",
+      "description": "Ιστοσελίδα οδοντιατρείου, σχολικό ομαδικό έργο. 2024",
       "platform": "",
       "link": ""
-    },
-    {
+  },
+  {
       "image": "images/project2.png",
-      "title": "Ιστοσελίδα Softwareshop",
-      "description": "Ιστοσελίδα για Softwareshop για ένα σχολικό ομαδικό έργο. 2023",
-      "platform": "github",
+      "title": "Ιστοσελίδα Software Shop",
+      "description": "Ιστοσελίδα για Software Shop, σχολικό ομαδικό έργο. 2023",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Beroepsproject2.git"
-    },
-    {
+  },
+  {
       "image": "images/project3.png",
-      "title": "Ιστοσελίδα με αγαπημένα μοτέρ",
-      "description": "Προσωπική ιστοσελίδα με τα αγαπημένα μου μοτέρ. 2024",
-      "platform": "github",
+      "title": "Ιστοσελίδα Αγαπημένων Μοτοσυκλετών",
+      "description": "Προσωπική ιστοσελίδα με τις αγαπημένες μου μοτοσυκλέτες. 2024",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Favorite_Motors_site.git"
-    },
-    {
+  },
+  {
       "image": "images/project4.png",
-      "title": "Ιστοσελίδα Ενοικίασης Αυτοκινήτου",
-      "description": "Προσωπική ιστοσελίδα για ένα σχολικό έργο σχετικά με την ενοικίαση αυτοκινήτου. 2024",
-      "platform": "github",
+      "title": "Ιστοσελίδα Ενοικίασης Αυτοκινήτων",
+      "description": "Προσωπική ιστοσελίδα για σχολικό έργο σχετικά με ενοικίαση αυτοκινήτων. 2024",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
-    },
-    {
+  },
+  {
       "image": "images/project5.png",
-      "title": "Ιστοσελίδα Ωρολογίου",
-      "description": "Ιστοσελίδα για το πρόγραμμα ωρολογίου για μαθητές και δασκάλους, ομαδικό έργο για το σχολείο. 2024",
-      "platform": "github",
+      "title": "Ιστοσελίδα Ωρολογίου Προγράμματος",
+      "description": "Ιστοσελίδα για ωρολόγιο πρόγραμμα για μαθητές και δασκάλους, ομαδικό σχολικό έργο. 2024",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
-    },
-    {
+  },
+  {
       "image": "images/project6.png",
       "title": "Παιχνίδι Santa's Desert Dash",
-      "description": "Παιχνίδι 3D δρομέα, Santa's Desert Dash. 2023",
-      "platform": "itch",
+      "description": "3D παιχνίδι δρομέα, Santa's Desert Dash. 2023",
+      "platform": "Itch.io",
       "link": "https://vazoi.itch.io/santas-desert-dash"
-    }
-    
-  ]
-  
+  }
+]

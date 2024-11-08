@@ -1,46 +1,44 @@
 [
-    {
+  {
       "image": "images/project1.png",
-      "title": "Tandarts website",
-      "description": "Tandarts website voor een school groepsproject. 2024",
+      "title": "Website voor Tandarts",
+      "description": "Website voor een tandarts, groepsproject voor school. 2024",
       "platform": "",
       "link": ""
-    },
-    {
+  },
+  {
       "image": "images/project2.png",
-      "title": "Softwareshop website",
-      "description": "Een SoftwareShop website voor een school groepsproject. 2023",
-      "platform": "github",
+      "title": "Software Shop Website",
+      "description": "Website voor een Software Shop, groepsproject voor school. 2023",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Beroepsproject2.git"
-    },
-    {
+  },
+  {
       "image": "images/project3.png",
-      "title": "Favoriete motoren website",
-      "description": "Persoonlijke site met mijn favoriete motoren. 2024",
-      "platform": "github",
+      "title": "Website met Favoriete Motoren",
+      "description": "Persoonlijke website met mijn favoriete motoren. 2024",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Favorite_Motors_site.git"
-    },
-    {
+  },
+  {
       "image": "images/project4.png",
-      "title": "Huur een Auto website",
-      "description": "Persoonlijke site voor een schoolproject over het huren van een auto. 2024",
-      "platform": "github",
+      "title": "Autoverhuur Website",
+      "description": "Website voor autoverhuur, persoonlijke schoolopdracht. 2024",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
-    },
-    {
+  },
+  {
       "image": "images/project5.png",
-      "title": "Rooster website",
-      "description": "Rooster website voor studenten en docenten, een groepsproject voor school. 2024",
-      "platform": "github",
+      "title": "Rooster Website",
+      "description": "Website voor roosters voor studenten en docenten, groepsproject voor school. 2024",
+      "platform": "GitHub",
       "link": "https://github.com/VaZoi/Eindopdracht-V2.git"
-    },
-    {
+  },
+  {
       "image": "images/project6.png",
-      "title": "Santa's Desert Dash Game",
+      "title": "Santa's Desert Dash Spel",
       "description": "3D hardloopspel, Santa's Desert Dash. 2023",
-      "platform": "itch",
+      "platform": "Itch.io",
       "link": "https://vazoi.itch.io/santas-desert-dash"
-    }
-    
-  ]
-  
+  }
+]
